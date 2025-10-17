@@ -5,7 +5,7 @@ A beautiful terminal app that displays random Kanye West quotes.
 ## Install
 
 ```bash
-go install github.com/yourusername/kanye-quotes@latest
+go install github.com/Yahar4/kanye-quotes@latest
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ kanye-quotes
 ## Build from Source
 
 ```bash
-git clone https://github.com/yourusername/kanye-quotes
+git clone https://github.com/Yahar4/kanye-quotes
 
 cd kanye-quotes
 
