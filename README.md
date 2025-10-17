@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/Yahar4/kanye-quotes.svg)](https://pkg.go.dev/github.com/Yahar4/kanye-quotes)
+
 # Kanye Quotes CLI
 
 A beautiful terminal app that displays random Kanye West quotes.
